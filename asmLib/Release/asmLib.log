@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Assembling asmSepia.asm...
+     Creating library ..\..\Plik_exe\asmLib.lib and object ..\..\Plik_exe\asmLib.exp
+  asmLib.vcxproj -> C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\asmLib\..\..\Plik_exe\asmLib.dll

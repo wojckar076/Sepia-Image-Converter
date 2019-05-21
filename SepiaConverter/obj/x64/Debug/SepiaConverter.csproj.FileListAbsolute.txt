@@ -1,0 +1,31 @@
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\Debug\SepiaConverter.exe.config
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\Debug\SepiaConverter.exe
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\Debug\SepiaConverter.pdb
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter.csprojAssemblyReference.cache
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\App.g.cs
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter_MarkupCompile.cache
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter_MarkupCompile.lref
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\MainWindow.baml
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter.g.resources
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter.Properties.Resources.resources
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter.csproj.GenerateResource.cache
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter.csproj.CoreCompileInputs.cache
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter.exe
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\x64\Debug\SepiaConverter.pdb
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\Debug\SepiaConverter.exe.config
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\Debug\SepiaConverter.exe
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\Debug\SepiaConverter.pdb
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\MainWindow.g.cs
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\App.g.cs
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter_MarkupCompile.cache
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter_MarkupCompile.lref
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\MainWindow.baml
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter.g.resources
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter.Properties.Resources.resources
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter.csproj.GenerateResource.cache
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter.csproj.CoreCompileInputs.cache
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter.exe
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter.pdb
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter.csproj.CopyComplete
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Debug\SepiaConverter.csprojAssemblyReference.cache

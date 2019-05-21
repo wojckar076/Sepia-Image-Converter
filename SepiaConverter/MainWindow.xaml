@@ -1,0 +1,55 @@
+﻿<Window x:Class="SepiaConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SepiaConverter"
+        mc:Ignorable="d"
+        Title="Sepia" Height="445" Width="450">
+	<DockPanel>
+		<StatusBar DockPanel.Dock="Bottom">
+			<TextBlock Text="Gotowy" x:Name="StatusBarTextBlock"/>
+		</StatusBar>
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="Auto"/>
+				<RowDefinition/>
+				<RowDefinition Height="Auto"/>
+				<RowDefinition Height="Auto" MinHeight="48"/>
+				<RowDefinition Height="Auto" MinHeight="48"/>
+				<RowDefinition Height="Auto"/>
+			</Grid.RowDefinitions>
+			<StackPanel Orientation="Vertical" Grid.Row="0" Margin="10,10,0,0">
+				<StackPanel Orientation="Horizontal" Height="20" >
+					<TextBlock Text="Ścieżka: " />
+					<TextBox x:Name="SourceFile" Width="300" Text="{Binding Path = SciezkaPliku,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+					<Button x:Name="SourceButton" Content="Przeglądaj" Margin="10,0,0,0" Click="SourceButton_OnClick" IsEnabled="{Binding Path = CzyAktywny}"/>
+				</StackPanel>
+				<Button Content="Otwórz" x:Name="LoadButton" Click="LoadButton_OnClick" IsEnabled="{Binding Path = CzyAktywny}" HorizontalAlignment="Center" Margin="0,5,0,0" />
+			</StackPanel>
+			<Image x:Name="img" Grid.Row="1" Width="356" HorizontalAlignment="Center"/>
+			<StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center" Width="120">
+                <RadioButton GroupName="dllSource" IsChecked="{Binding AsmOK, Mode=TwoWay}" Width="60">ASM</RadioButton>
+                <RadioButton GroupName="dllSource" IsChecked="{Binding CsharpOK, Mode=TwoWay}" Width="42">C#</RadioButton>
+			</StackPanel>
+			<StackPanel Orientation="Vertical" Grid.Row="3" Margin="10,5,10,5">
+				<StackPanel Orientation="Horizontal" >
+					<TextBlock Text="Ilość wątków:"/>
+					<Label Content="{Binding Watki}" Margin="10,0,0,0" x:Name="ThreadsTextBlock"></Label>
+				</StackPanel>
+				<Slider MinWidth="100" Minimum="1" Maximum="64" Value="{Binding Watki, Mode=TwoWay}"></Slider>
+			</StackPanel>
+			<StackPanel Orientation="Vertical" Grid.Row="4" Margin="10,5,10,5">
+				<StackPanel Orientation="Horizontal" >
+					<TextBlock Text="Sepia:"/>
+					<Label Content="{Binding Sepia}" Margin="10,0,0,0" x:Name="ThreadsSliderCopy"></Label>
+				</StackPanel>
+				<Slider x:Name="SepiaSlider"  IsSnapToTickEnabled="True" TickFrequency="1" Minimum="20" Maximum="40" Value="{Binding Sepia, Mode=TwoWay}"></Slider>
+			</StackPanel>
+			<StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" Margin="85,0,87,0" Width="270">
+				<Button x:Name="ConvertButton" Content="Konwertuj" Width="100" Margin="10,5,0,5" Click="ConvertButton_OnClick" IsEnabled="{Binding Path = konwertAktywny}"/>
+				<Button x:Name="SaveButton" Content="Zapisz" Width="100" Margin="50,5,0,5" Click="SaveButton_OnClick" IsEnabled="{Binding Path = CzyAktywny}"/>
+			</StackPanel>
+		</Grid>
+	</DockPanel>
+</Window>

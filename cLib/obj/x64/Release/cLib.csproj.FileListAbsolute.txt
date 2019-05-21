@@ -1,0 +1,7 @@
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Plik_exe\cLib.dll.config
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Plik_exe\cLib.dll
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Plik_exe\cLib.pdb
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\cLib\obj\x64\Release\cLib.csproj.CoreCompileInputs.cache
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\cLib\obj\x64\Release\cLib.dll
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\cLib\obj\x64\Release\cLib.pdb
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\cLib\obj\x64\Release\cLib.csprojAssemblyReference.cache

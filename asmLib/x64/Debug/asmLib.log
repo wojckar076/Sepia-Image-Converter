@@ -1,0 +1,3 @@
+﻿  Assembling asmSepia.asm...
+     Creating library ..\Debug\asmLib.lib and object ..\Debug\asmLib.exp
+  asmLib.vcxproj -> C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\asmLib\..\Debug\asmLib.dll

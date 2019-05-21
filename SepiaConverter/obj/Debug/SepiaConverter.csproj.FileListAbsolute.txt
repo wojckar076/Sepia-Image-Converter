@@ -1,0 +1,15 @@
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\bin\Debug\SepiaConverter.exe.config
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\bin\Debug\SepiaConverter.exe
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\bin\Debug\SepiaConverter.pdb
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter.csprojAssemblyReference.cache
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\MainWindow.g.cs
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\App.g.cs
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter_MarkupCompile.cache
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter_MarkupCompile.lref
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\MainWindow.baml
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter.g.resources
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter.Properties.Resources.resources
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter.csproj.GenerateResource.cache
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter.csproj.CoreCompileInputs.cache
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter.exe
+C:\Users\Doffy\Documents\Visual Studio 2017\Projects\SepiaConverter\SepiaConverter\obj\Debug\SepiaConverter.pdb

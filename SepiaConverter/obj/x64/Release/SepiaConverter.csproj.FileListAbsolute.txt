@@ -1,0 +1,16 @@
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Plik_exe\SepiaConverter.exe.config
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Plik_exe\SepiaConverter.exe
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Plik_exe\SepiaConverter.pdb
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter.csprojAssemblyReference.cache
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\MainWindow.g.cs
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\App.g.cs
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter_MarkupCompile.cache
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter_MarkupCompile.lref
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\MainWindow.baml
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter.g.resources
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter.Properties.Resources.resources
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter.csproj.GenerateResource.cache
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter.csproj.CoreCompileInputs.cache
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter.csproj.CopyComplete
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter.exe
+C:\JA_W.Karbownik_KonwersjaGrafikiNaSepie\Zrodla\SepiaConverter\obj\x64\Release\SepiaConverter.pdb
